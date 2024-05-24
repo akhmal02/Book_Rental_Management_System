@@ -1,0 +1,137 @@
+
++--------------------------------------------------+
+|    Details of Borrower that rent Novel Book:     | 
++--------------------------------------------------+
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B001
+Title: Leftenan Adnan
+Author: Abdul Latip Talip
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 2.0
+Rent for (Day): 7
+Genre: Adventure
+Local (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C001
+Name: MUHAMMAD AKHMAL
+Phone: 01151871017
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B002
+Title: Tikus dan Keju
+Author: Maznah Letopz
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 3.0
+Rent for (Day): 3
+Genre: Romance
+Local (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C002
+Name: MUHAMMAD AIDIEL
+Phone: 011223344
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B003
+Title: Harry Potter
+Author: J.K Rowling
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 10.0
+Rent for (Day): 14
+Genre: Adventure
+Local (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C003
+Name: ABDUL RAHMAN FIRDAUS
+Phone: 0126573245
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B004
+Title: Lord of The Rings
+Author: L.L Tolkien
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 15.0
+Rent for (Day): 10
+Genre: Adventure
+Local (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C004
+Name: ADI ISKANDAR
+Phone: 0163332222
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B005
+Title: Pantai Kasih
+Author: Zainal Abidin
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 7.0
+Rent for (Day): 20
+Genre: Romance
+Local (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C005
+Name: SHEIKH AQIL MUSTAQIM
+Phone: 0187271004
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B006
+Title: Kampus
+Author: Syafiq Isaac
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 5.0
+Rent for (Day): 19
+Genre: Horror
+Local (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C006
+Name: DAVID ANAK JOSEPH
+Phone: 0121236556
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B007
+Title: Pride and Prejudice
+Author: Jane Austen
+Material Type (Novel/Reference): Novel
+Status Available: true
+Deposit: 7.0
+Rent for (Day): 30
+Genre: Romance
+Local (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C007
+Name: DANISH HAIKAL
+Phone: 0986254567

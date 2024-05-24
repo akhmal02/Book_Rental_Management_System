@@ -1,0 +1,12 @@
+B001,Leftenan Adnan,Abdul Latip Talip,true,Novel,2.00,7,C001,MUHAMMAD AKHMAL,01151871017,Adventure,true
+B002,Tikus dan Keju,Maznah Letopz,true,Novel,3.00,3,C002,MUHAMMAD AIDIEL,011223344,Romance,false
+B003,Harry Potter,J.K Rowling,true,Novel,10.00,14,C003,ABDUL RAHMAN FIRDAUS,0126573245,Adventure,false
+B004,Lord of The Rings,L.L Tolkien,true,Novel,15.00,10,C004,ADI ISKANDAR,0163332222,Adventure,false
+B005,Pantai Kasih,Zainal Abidin,true,Novel,7.00,20,C005,SHEIKH AQIL MUSTAQIM,0187271004,Romance,true
+B006,Kampus,Syafiq Isaac,true,Novel,5.00,19,C006,DAVID ANAK JOSEPH,0121236556,Horror,true
+B007,Pride and Prejudice,Jane Austen,true,Novel,7.00,30,C007,DANISH HAIKAL,0986254567,Romance,false
+B008,Computer Paradigm,Mamat Latip,false,Reference,10.00,19,C008,NIK YUSUF,01124357688,CSC632,2,true
+B009,Computer Organization,Puteri Ketum,true,Reference,9.30,22,C009,RIZALIFF NABIL,019876234,CSC186,1,true
+B010,Cybersecurity,Roger Canda,true,Reference,12.00,6,C010,AHMAD AMADI,0182341224,CSC338,3,true
+B011,Introduction to Expert Java,John Javamann,true,Reference,10.00,10,C011,IDLAN MAHFUS,019989923,CSC186,1,false
+B012,Penghayatan Tamadun Islam,Razak M.Ali,false,Reference,12.00,14,C012,MUHAMMAD SYAFIQ,01177245689,CTU153,1,false

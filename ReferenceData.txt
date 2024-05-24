@@ -1,0 +1,104 @@
+
++---------------------------------------------------+
+|   Details of Borrower that rent Reference Book:   | 
++---------------------------------------------------+
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B008
+Title: Computer Paradigm
+Author: Mamat Latip
+Material Type (Novel/Reference): Reference
+Status Available: false
+Deposit: 10.0
+Rent for (Day): 19
+Subject: CSC632
+Edition: 2
+Student UiTM? (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C008
+Name: NIK YUSUF
+Phone: 01124357688
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B009
+Title: Computer Organization
+Author: Puteri Ketum
+Material Type (Novel/Reference): Reference
+Status Available: true
+Deposit: 9.3
+Rent for (Day): 22
+Subject: CSC186
+Edition: 1
+Student UiTM? (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C009
+Name: RIZALIFF NABIL
+Phone: 019876234
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B010
+Title: Cybersecurity
+Author: Roger Canda
+Material Type (Novel/Reference): Reference
+Status Available: true
+Deposit: 12.0
+Rent for (Day): 6
+Subject: CSC338
+Edition: 3
+Student UiTM? (True/False): true
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C010
+Name: AHMAD AMADI
+Phone: 0182341224
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B011
+Title: Introduction to Expert Java
+Author: John Javamann
+Material Type (Novel/Reference): Reference
+Status Available: true
+Deposit: 10.0
+Rent for (Day): 10
+Subject: CSC186
+Edition: 1
+Student UiTM? (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C011
+Name: IDLAN MAHFUS
+Phone: 019989923
+
+-------------------------
+Book Information :-
+-------------------------
+Series Number(ISBN): B012
+Title: Penghayatan Tamadun Islam
+Author: Razak M.Ali
+Material Type (Novel/Reference): Reference
+Status Available: false
+Deposit: 12.0
+Rent for (Day): 14
+Subject: CTU153
+Edition: 1
+Student UiTM? (True/False): false
+-------------------------
+Borrower Information :- 
+-------------------------
+ID Borrower: C012
+Name: MUHAMMAD SYAFIQ
+Phone: 01177245689
