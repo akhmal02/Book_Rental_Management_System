@@ -6,7 +6,7 @@ The system consists of several modules that perform various tasks, such as catal
 
 This project aims to highlight the current manual process of book rental service management, which can be tedious and time-consuming. We propose this system as a solution to this problem and show how it can automate most of the service management processes, leading to greater efficiency and effectiveness. In addition, we will present a calculation formula with examples to illustrate the effectiveness of the Book Rental Management System in improving the service management. Through the use of technology, people can streamline their service management and make it easier and more convenient for all users.
 
-Project objectives:-
+#Project objectives:-
 •	 Provides a more systematic and organized system for the library as all the data are stored digitally.
 •	 Increases the efficiency of the librarian and better management of the library as ithelps in keeping track of the variety of books and other materials.
 •	 Performing calculation penalty to the user who missing the book or late in returning the book.
